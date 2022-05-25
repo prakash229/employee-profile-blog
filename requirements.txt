@@ -3,7 +3,7 @@ djangorestframework==3.7.7
 djangorestframework-jwt==1.11.0
 django_extensions==2.1.2
 gunicorn==19.7.1
-PyJWT==1.6.1
+PyJWT==2.4.0
 pytz==2018.5
 psycopg2
 Pillow==5.2.0
